@@ -1,0 +1,83 @@
+[
+  {
+    "id": "1",
+    "name": "Wireless Over-Ear Headphones",
+    "category": "Electronics",
+    "price": 129.99,
+    "image": "assets/images/headphones.jpg",
+    "rating": 4.7,
+    "description": "High-fidelity wireless headphones with active noise cancellation, deep bass, and up to 30 hours of battery life."
+  },
+  {
+    "id": "2",
+    "name": "Smart Fitness Watch",
+    "category": "Electronics",
+    "price": 199.50,
+    "image": "assets/images/smartwatch.jpg",
+    "rating": 4.5,
+    "description": "Sleek smartwatch featuring heart rate monitoring, GPS tracking, sleep analysis, and water resistance."
+  },
+  {
+    "id": "3",
+    "name": "RGB Mechanical Keyboard",
+    "category": "Electronics",
+    "price": 89.99,
+    "image": "assets/images/keyboard.jpg",
+    "rating": 4.8,
+    "description": "Tactile mechanical keyboard with customizable RGB backlighting, durable keycaps, and tactile switches."
+  },
+  {
+    "id": "4",
+    "name": "Classic Denim Jacket",
+    "category": "Clothing",
+    "price": 74.95,
+    "image": "assets/images/jacket.jpg",
+    "rating": 4.6,
+    "description": "Timeless vintage-style denim jacket crafted from premium cotton for all-day comfort and effortless style."
+  },
+  {
+    "id": "5",
+    "name": "Casual Cotton Pullover Hoodie",
+    "category": "Clothing",
+    "price": 49.99,
+    "image": "assets/images/hoodie.jpg",
+    "rating": 4.4,
+    "description": "Cozy fleece-lined pullover hoodie with adjustable drawstring hood and kangaroo pocket."
+  },
+  {
+    "id": "6",
+    "name": "Pro Performance Running Shoes",
+    "category": "Footwear",
+    "price": 119.99,
+    "image": "assets/images/shoes.jpg",
+    "rating": 4.9,
+    "description": "Lightweight and breathable running sneakers with responsive foam cushioning for ultimate athletic comfort."
+  },
+  {
+    "id": "7",
+    "name": "Minimalist Low-Top Sneakers",
+    "category": "Footwear",
+    "price": 85.00,
+    "image": "assets/images/sneakers.jpg",
+    "rating": 4.3,
+    "description": "Modern urban sneakers made with premium synthetic upper and durable rubber outsole."
+  },
+  {
+    "id": "8",
+    "name": "Vintage Leather Travel Backpack",
+    "category": "Accessories",
+    "price": 135.00,
+    "image": "assets/images/backpack.jpg",
+    "rating": 4.7,
+    "description": "Spacious genuine leather backpack featuring a padded 15-inch laptop sleeve and multiple storage compartments."
+  },
+  {
+    "id": "9",
+    "name": "Classic Polarized Sunglasses",
+    "category": "Accessories",
+    "price": 59.99,
+    "image": "assets/images/sunglasses.jpg",
+    "rating": 4.6,
+    "description": "Stylish UV400 protected sunglasses with anti-glare polarized lenses and a lightweight frame."
+  }
+]
